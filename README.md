@@ -3,7 +3,7 @@ I'm <a href= "www.linkedin.com/in/jermaine-copeland-456075296">Jermaine Copeland
 <hr>
 <div>
 <strong>Currently working on these projects<strong/>
-<ol><li><li/><li><li/><li><li/><li><li/><ol/>
+<ol><li><a src = "https://jcopelandlab.github.io/catalog/"><li/><li><li/><li><li/><li><li/><ol/>
 </div>
 <hr>
 	<div>
