@@ -2,8 +2,8 @@ Hi there! <br/>
 I'm <a href= "www.linkedin.com/in/jermaine-copeland-456075296">Jermaine Copeland<a/>. Currently, I am a student in a cybersecurity information assurance program. I have a interest in developing secure software using libraries and tools that are commonly used. 
 <hr>
 <div>
-<strong>Currently working on these projects<strong/>
-<ol><li><a src = "https://jcopelandlab.github.io/catalog/"><li/><li><li/><li><li/><li><li/><ol/>
+<strong>Currently working on these projects</strong>
+<ol><li><a href= "https://jcopelandlab.github.io/catalog/">Library Dashboard<a/></li></ol>
 </div>
 <hr>
 	<div>
