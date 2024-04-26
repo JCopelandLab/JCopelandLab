@@ -1,5 +1,5 @@
 Hi there! <br/>
-I'm <a href= "www.linkedin.com/in/jermaine-copeland-456075296">Jermaine Copeland<a/>. Currently, I am a student in a cybersecurity information assurance program. I have a interest in developing secure software using libraries and tools that are commonly used. 
+I'm <a href= "www.linkedin.com/in/jermaine-copeland-456075296">Jermaine Copeland<a/>. Currently, I am enrolled in a computer science program and in pursuit to becoming a software engineer. Establishing a deeper understanding by taking on FullStack Open and the Odin Project courses. Feel free to message me if any of my projects or pull requests interest you!. 
 <hr>
 <div>
 <strong>Currently working on these projects</strong>
